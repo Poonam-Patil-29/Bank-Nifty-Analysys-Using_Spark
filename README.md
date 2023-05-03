@@ -40,6 +40,7 @@ This project is aimed at developing a powerful PySpark analysis on bank nifty da
 * To check nifty prediction')
 * To check visualization')
 * For Logout')
+
 ### CONTRIBUTORS :
 * Poonam Patil
 * Rohith SN
