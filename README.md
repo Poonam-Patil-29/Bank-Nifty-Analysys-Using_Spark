@@ -9,5 +9,3 @@
 
 ### About Spark :
           Apache Spark is one of the hottest new trends in the technology domain. It is the framework with probably the highest potential to realize the fruit of the marriage between Big Data and Machine Learning. It runs fast (up to 100x faster than traditional Hadoop MapReduce due to in-memory operation, offers robust, distributed, fault-tolerant data objects (called RDD), and integrates beautifully with the world of machine learning and graph analytics through supplementary packages like Mlib and GraphX.
-          financial metrics![image](https://user-images.githubusercontent.com/104273538/235840311-4ed51b5d-13ab-4860-97d8-888a3926d2d3.png)
-
