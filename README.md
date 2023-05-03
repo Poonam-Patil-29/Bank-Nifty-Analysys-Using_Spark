@@ -16,7 +16,7 @@ TECHONOLOGIES USED ;
 * Modules and Libraries     :   Pyspark, matplot, seaborn, Findspark, Pandas
 
 ### Analysis Options :
-* 1. To view all data in dataset ')
+* 1.To view all data in dataset ')
 * 2. To check how many rows u want to fetch')
 * 3. To check count of weekdays')
 * 4. To check minimum values')
