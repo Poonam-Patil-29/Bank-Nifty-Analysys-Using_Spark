@@ -10,24 +10,33 @@ This project is aimed at developing a powerful PySpark analysis on bank nifty da
 4. Data functions is done using Sparksession and RDDs in spark Framework.
 5. Driver code and functionalities is done using python.
 
-TECHONOLOGIES USED ;
+### TECHONOLOGIES USED :
 * Language                  :   Python
 * Environment               :   Jupyter Notebook
 * Modules and Libraries     :   Pyspark, matplot, seaborn, Findspark, Pandas
 
+### ROLES AND RESPONSIBILITIES
+* Worked on Sparksession Module
+* Utilized Github to manage the source code.
+* Worked on Python Jupyter notebook with spark framework
+* Used Data frame, RDD, Pandas for creating operations on spark.
+* Applied Built-in Modules Matplot, seaborn, pandas, sparkfunctions.
+* Used Graphs and Figures to show data visualtion.
+* Tested code using Python Jupyter notebook.
+
 ### Analysis Options :
-* 1.To view all data in dataset ')
-* 2.To check how many rows u want to fetch')
-* 3.To check count of weekdays')
-* 4.To check minimum values')
-* 5.To check maximum values')
-* 6.To sort open and close ascending order')    
-* 7.To check details between given dates')
-* 8.To check the average  according to its type')
-* 9.To check nity closing between range')
-* 10.To check count of according to its types')
-* 11.To check data on weekley bases')
-* 12.To count week days')
-* 13.To check nifty prediction')
-* 14.To check visualization')
-* 15.For Logout')
+* To view all data in dataset ')
+* To check how many rows u want to fetch')
+* To check count of weekdays')
+* To check minimum values')
+* To check maximum values')
+* To sort open and close ascending order')    
+* To check details between given dates')
+* To check the average  according to its type')
+* To check nity closing between range')
+* To check count of according to its types')
+* To check data on weekley bases')
+* To count week days')
+* To check nifty prediction')
+* To check visualization')
+* For Logout')
