@@ -25,21 +25,21 @@ This project is aimed at developing a powerful PySpark analysis on bank nifty da
 * Tested code using Python Jupyter notebook.
 
 ### Analysis Options :
-* To view all data in dataset ')
-* To check how many rows u want to fetch')
-* To check count of weekdays')
-* To check minimum values')
-* To check maximum values')
-* To sort open and close ascending order')    
-* To check details between given dates')
-* To check the average  according to its type')
-* To check nity closing between range')
-* To check count of according to its types')
-* To check data on weekley bases')
-* To count week days')
-* To check nifty prediction')
-* To check visualization')
-* For Logout')
+* To view all data in dataset 
+* To check how many rows u want to fetch
+* To check count of weekdays
+* To check minimum values
+* To check maximum values
+* To sort open and close ascending order
+* To check details between given dates
+* To check the average  according to its type
+* To check nity closing between range
+* To check count of according to its types
+* To check data on weekley bases
+* To count week days
+* To check nifty prediction
+* To check visualization
+* To Logout
 
 ### CONTRIBUTORS :
 * Poonam Patil
